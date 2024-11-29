@@ -1,7 +1,7 @@
 {
-  "name": "moodist",
+  "name": "murmurs-android-paid",
   "type": "module",
-  "version": "1.5.1",
+  "version": "1.2.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
